@@ -1,0 +1,8 @@
+{
+  "name": "haruhansi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lunaut/HaruHansi.git",
+  "author": "31n5ang <31n5ang@gmail.com>",
+  "license": "MIT"
+}
