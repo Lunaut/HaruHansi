@@ -4,5 +4,18 @@
   "main": "index.js",
   "repository": "https://github.com/Lunaut/HaruHansi.git",
   "author": "31n5ang <31n5ang@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "express": "^4.17.1",
+    "mobx": "^5.13.0",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1",
+    "react-mobx": "^0.0.4"
+  }
 }
